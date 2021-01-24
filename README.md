@@ -1,1 +1,7 @@
-# PyCitySchools
+# Analysis on School Performance in a District
+## Overview of the school district analysis
+The purpose of the analysis is to reveal the potential factors affecting the performance of several schools in terms of the math and reading scores of their students. These factors include the funding, the size, and the type of the school. Due to the potential academic dishonesty reported, scores of the 9th-graders in one of the schools are dropped and the whole analysis is redone.
+## Results
+After the removal of the 9th grader data of the Thomas High School, the relevant school, all of the performance indicators in the district summary reduced slightly. Likewise, Thomas High School's own performance indicators, except for the reading scores, dropped down mildly. The small increase in the average reading score could be caused by the reading score in 9th grade being lower on average comparing to other grades. However, after modifying the data, the performance of Thomas High School relative to other schools does not change in terms of passing rate rank. The effect from Thomas High School's data change also spills over to the results of the analyses on the school per capita budget, school size, and school type. The bins which contains the Thomas High School ($630-644, Medium (1000-2000), charter) all dropped in performance in the corresponding analyses, except for the increase in average reading score.
+## Summary
+In conclusion, the data removal affects most of the performance indices in a negative way, and the fact that the reading score increases after the removal yet the passing rate drops can be seen as something abnormal.
